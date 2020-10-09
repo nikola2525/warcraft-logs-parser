@@ -14,4 +14,4 @@ The user has to input:
 * The url of the log
 * Name of the output file
 The output file will be in the .csv format and will look something like this:
-![csv image](/csv\ image.png)
+![csv image](/csv-image.PNG)
